@@ -57,6 +57,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### ignore aplication.properties###
-/src/main/resources/application.properties
